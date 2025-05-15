@@ -6,8 +6,8 @@ public class Test {
 		
 		System.out.println("Hello");
 		System.out.println("Jobito");
-		System.out.println("testclass");
-		System.out.println("Testing");
+		System.out.println("for testing");
+		
 	}
 
 }
